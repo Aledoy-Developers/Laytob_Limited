@@ -44,13 +44,13 @@
                             <div class="footer-top-row2-row1">
                                 <iconify-icon icon="mingcute:phone-fill" width="20" height="20"></iconify-icon>
                             </div>
-                            <div class="footer-top-row2-row2">07572425114</div>
+                            <div class="footer-top-row2-row2">0757 242 5114</div>
                         </div>
                         <div class="footer-top-row2-row">
                             <div class="footer-top-row2-row1">
                                 <iconify-icon icon="mdi:envelope" width="20" height="20"></iconify-icon>
                             </div>
-                            <div class="footer-top-row2-row2">info@hautlogistics.com</div>
+                            <div class="footer-top-row2-row2">info@laytoblimited.com</div>
                         </div>
                     </div>
                 </div>
